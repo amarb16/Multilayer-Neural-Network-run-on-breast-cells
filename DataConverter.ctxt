@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DataConverter()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DataConverter\n
+comment1.params=
+comment1.target=void\ fileReader()
+comment1.text=\n\ The\ fileReader()\ reads\ the\ dataFile\ with\ the\ breast\ cancer\ information\ and\ stores\n\ the\ inputs\ as\ doubles\ in\ an\ arrayList\ called\ records.\n
+comment2.params=num
+comment2.target=int\ getID(int)
+comment3.params=
+comment3.target=Example[]\ getInputs()
+comment3.text=\n\ Converting\ the\ data\ into\ a\ range\ of\ 0-1\n\ (val\ -\ min)\ /\ (max\ -\ min)\n
+comment4.params=column
+comment4.target=double\ max(int)
+comment4.text=\n\ \n
+comment5.params=column
+comment5.target=double\ min(int)
+comment5.text=\n\ \n\ \n
+comment6.params=
+comment6.target=void\ testThing()
+numComments=7
